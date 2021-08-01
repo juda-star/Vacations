@@ -11,12 +11,11 @@ export default function Contact() {
                   <input type="text" />
               </label>
               <label htmlFor="">Age
-                  <input type="text" />
+                  <input type="age" />
               </label>
               <label htmlFor="">Email
-                  <input type="text" />
+                  <input type="email" />
               </label>
-
           </form>
         </div>
     )
